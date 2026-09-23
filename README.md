@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/najwan-muyassar-36435b397/"><img src="https://img.shields.io/badge/LinkedIn-Najwan_Muyassar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/najwan-muyassar/"><img src="https://img.shields.io/badge/LinkedIn-Najwan_Muyassar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/najwaann.m/"><img src="https://img.shields.io/badge/Instagram-@najwaann.m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
